@@ -1,2 +1,8 @@
 # CS-320
 Software Test Automation
+
+When developing software, it is important to review the design documents in order to address the requirements set forth during the planning phase of the project. For increased code correctness and reduced security vulnerabilities, it is good practice to keep the code simple, while still covering all the needs of the intended users and the requirements set forth during planning. It is not the job of the developer to add in extra features or to include libraries which are not necessary for delivering the bare essential components to do what was intended during design of the software. Testing is done in order to ensure the code meets the requirements and that the functions give proper return values for specified inputs, and that variables abide by the definitions set forth in the software design requirements.
+
+It is the job of the design architect to solicit needed and wanted features from the users and from the software buyers. These needs and wants should run through a team of engineers and planned out through design phases before being handed over to the developers in the form of user stories. The developers are the ones responsible for translating the users' needs into a functioning system component or feature through computer code.
+
+Designing software can be as simple as a one-man team who sees a need for a piece of software in their environment, or as complex as a development and design team comprising several departments in a large corporation, who need to communicate through layers of company hierarchy in order to realize a specific design goal through development of code after many stages of planning, development, and revision.
